@@ -3,9 +3,10 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: "Matt O'Connor's blog",
+  subtitle:
+    'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  copyright: "© Matt O'Connor 2020",
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -13,21 +14,22 @@ module.exports = {
   menu: [
     {
       label: 'Articles',
-      path: '/'
+      path: '/',
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/pages/about',
     },
     {
       label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      path: '/pages/contacts',
+    },
   ],
   author: {
-    name: 'John Doe',
+    name: "Matt O'Connor",
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio:
+      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '',
       facebook: '#',
@@ -44,6 +46,6 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-    }
-  }
+    },
+  },
 };
