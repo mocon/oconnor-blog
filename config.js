@@ -3,9 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: "Matt O'Connor's blog",
-  subtitle:
-    'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: "Returned to Ourself",
+  subtitle: "A blog by Matt O'Connor",
   copyright: "© Matt O'Connor 2020",
   disqusShortname: '',
   postsPerPage: 4,
@@ -28,8 +27,7 @@ module.exports = {
   author: {
     name: "Matt O'Connor",
     photo: '/photo.jpg',
-    bio:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'A short bio about me will soon appear here.',
     contacts: {
       email: '',
       facebook: '',
