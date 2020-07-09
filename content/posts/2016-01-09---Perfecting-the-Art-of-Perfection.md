@@ -1,18 +1,21 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
-template: "post"
+slug: returned-to-ourself
 draft: false
-slug: "perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+socialImage: /media/image-2.jpg
+template: post
+title: Returned To Ourself
+date: 2020-07-08T23:52:10.303Z
+description: Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem,
+  at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus
+  orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui.
+  Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue
+  elementum.
+category: Design Inspiration
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
-socialImage: "/media/image-2.jpg"
+  - Handwriting
+  - Learning to write
 ---
-
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+To be ‘returned to ourself’ is simply to be brought back into the truth of who each of us is. All the philosophies, theologies, or ideologies, for all their value, cannot compare with the richness and life that already exists within us. Notice the ‘returning’ is done to us, not by us.  This is important, for it is through our relationship with others and with God that we are brought back. Brought back, kind of to where we started, but to a self that emerges as infinitely ‘more’ by way of the exchange with that ‘other.’     	
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
 
