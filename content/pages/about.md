@@ -1,13 +1,11 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: About me
+socialImage: /media/image-2.jpg
+slug: about
+draft: false
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+My name is Matt O’Connor, I am a spiritual director, with a focus on the Spiritual Exercises of St. Ignatius.  I am a graduate of the Episcopal Theological Seminary at Claremont, California, and an associate of the Loyola Institute for Spirituality in Orange, California.   My posts are about desire, the movements of our hearts that define what matters to us, those stirrings and joys, uniquely ours that we alone can bestow on the world.  To be ‘Returned To Ourself’ is a ‘coming home,’ discovering the wisdom we already possess and opening us to a relationship with the ‘Ground of our being.’
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+The theologian Paul Tillich described grace as the moment when despair and estrangement are met by something ‘greater,’ whose message is “You are accepted, accepted by that which is greater than you, and the name of which you do not know.”  Living in this acceptance relinquishes fear and opens our eyes to the wonder each one of us truly is.  To allow ourselves the freedom in no longer questioning our belovedness begins a love affair of our truest self with ‘all that is.’  
