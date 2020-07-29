@@ -5,4 +5,4 @@ socialImage: /media/image-4.jpg
 slug: contact
 draft: false
 ---
-<a href="mailto:james_m_oconnor@yahoo.com">james_m_oconnor@yahoo.com</a>
+Feel free to <a href="mailto:james_m_oconnor@yahoo.com">send me an email</a>.
