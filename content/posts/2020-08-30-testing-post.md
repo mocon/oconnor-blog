@@ -10,3 +10,7 @@ tags:
   - testing
 ---
 This is my work *in progress*. More to follow...
+
+![Alt text](/media/42-line-bible.jpg)
+
+This is some more text.
