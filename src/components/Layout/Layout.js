@@ -10,15 +10,10 @@ type Props = {
   children: ReactNode,
   title: string,
   description?: string,
-  socialImage? :string
+  socialImage?: string,
 };
 
-const Layout = ({
-  children,
-  title,
-  description,
-  socialImage
-}: Props) => {
+const Layout = ({ children, title, description, socialImage }: Props) => {
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage != null ? socialImage : author.photo;
   const metaImageUrl = url + withPrefix(metaImage);
@@ -36,6 +31,23 @@ const Layout = ({
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={metaImageUrl} />
       </Helmet>
+
+      {/* Header with repeating background */}
+      <header
+        style={{
+          position: 'absolute',
+          top: 0,
+          left: 0,
+          right: 0,
+          height: '50px',
+          backgroundImage:
+            'url(https://raw.githubusercontent.com/mocon/oconnor-blog/master/static/repeating_banner.jpg)',
+          backgroundSize: '393px 50px',
+          opacity: 0.9,
+          borderBottom: '1px solid #e6e6e6',
+        }}
+      />
+
       {children}
     </div>
   );

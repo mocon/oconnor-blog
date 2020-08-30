@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: "Returned to Ourself",
+  title: 'Returned to Ourself',
   subtitle: "A blog by Matt O'Connor",
   copyright: "© Matt O'Connor 2020",
   disqusShortname: '',
