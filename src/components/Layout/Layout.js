@@ -44,7 +44,8 @@ const Layout = ({ children, title, description, socialImage }: Props) => {
             'url(https://raw.githubusercontent.com/mocon/oconnor-blog/master/static/book-of-durrow-repeat.jpg)',
           backgroundSize: '393px 50px',
           opacity: 0.9,
-          borderBottom: '1px solid #e6e6e6',
+          borderTop: '1px solid rgba(0,0,0,0.5)',
+          borderBottom: '2px solid rgba(0,0,0,0.4)',
         }}
       />
 
