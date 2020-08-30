@@ -27,7 +27,8 @@ module.exports = {
   author: {
     name: "Matt O'Connor",
     photo: '/photo.jpg',
-    bio: '',
+    bio:
+      "My name is Matt O'Connor, I am a spiritual director, with a focus on the Spiritual Exercises of St. Ignatius. I am a graduate of the Episcopal Theological Seminary at Claremont, California, and an associate of the Loyola Institute for Spirituality in Orange, California.",
     contacts: {
       email: '',
       facebook: '',
