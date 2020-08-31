@@ -1,8 +1,8 @@
 ---
-slug: living-in-confidence
-draft: true
-socialImage: /media/image-3.jpg
 template: post
+slug: living-in-confidence
+draft: false
+socialImage: /media/image-3.jpg
 title: Living In Confidence
 date: 2020-07-31T17:21:57.664Z
 description: living in confidence
