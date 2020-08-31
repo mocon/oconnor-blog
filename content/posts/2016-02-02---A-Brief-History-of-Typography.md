@@ -1,6 +1,6 @@
 ---
 slug: pay-attention
-draft: true
+draft: false
 socialImage: /media/image-0.jpg
 template: post
 title: Pay Attention
