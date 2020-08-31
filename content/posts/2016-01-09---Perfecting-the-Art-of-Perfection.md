@@ -4,7 +4,7 @@ draft: false
 socialImage: /media/image-2.jpg
 template: post
 title: Returned And Restored
-date: 2020-07-08T23:52:10.303Z
+date: 2020-08-31T14:53:50.019Z
 description: >
   To be "returned to ourself" is simply to be brought back into the truth of who
   each of us is. All the philosophies, theologies, or ideologies, for all their
