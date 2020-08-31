@@ -18,7 +18,9 @@ What are you to draw from so as to leave no doubt who you are and what you care 
 
 The US Marine Corps has a good idea what.  Their creed, Semper Fidelis, defines living in confidence.  Semper Fidelis, Always Faithful, has described the ethos of the Marine Corps for generations.  Fidelis, fidelity, describes an act of  trusting in something so fully that we have decided it is worthy to give our hearts to.   So the question  becomes, what is it we declare our semper fidelis to?  What have we decided is an object or a project worthy enough to give our heart to?  The answer is right there in front of you.  It is you, in all your goodness, in all your faults, in the all that makes up the all of you.
 
-> This above all: to thine own self be true,” -Polonius’ advice to his son Laertes, in Hamlet
+> This above all: to thine own self be true,”
+>
+> \-Polonius’ advice to his son Laertes, in Hamlet
 
 Two remarkable people come to mind who embodied their version of semper fidelis.  When Katherine Johnson wrote the research paper providing the mathematical calculations for NASA that made possible the coordination of the Apollo lunar module with the orbiting Command module, she was embodying a fidelity to her truest self.  Her brilliant career with the space program was founded on her love for math.  The first African American woman to enroll in West Virginia’s graduate schools,  she spent her entire career opening doors previously barred to a person of color, not to mention the barriers she overcame as a woman in the overwhelmingly male environment of early NASA.   After 33 years with the space program, she retired, saying, “I loved going to work every single day.”  She received the Presidential Medal of Freedom in 2015, at age 97.  
 
