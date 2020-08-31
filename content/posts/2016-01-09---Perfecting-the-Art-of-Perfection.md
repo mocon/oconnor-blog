@@ -1,8 +1,8 @@
 ---
-template: post
 slug: returned-and-restored
 draft: false
 socialImage: /media/image-2.jpg
+template: post
 title: Returned And Restored
 date: 2020-07-08T23:52:10.303Z
 description: >
@@ -19,7 +19,7 @@ tags:
 ---
 To be "returned to ourself" is simply to be brought back into the truth of who each of us is.  All the philosophies, theologies, and ideologies, for all their value, cannot compare with the richness and life that already exists within us. An item to note is the "returning" is done to us, not by us.  This is important, for it is through our relationship with others and with God that restores us to our truest self.  Brought back, kind of to where we started, but to a self that emerges as infinitely "more" by way of the exchange with that "other."
 
-![Book of Durrow, c. 650 and 700](/media/book-of-durrow.jpg "Book of Durrow, c. 650 and 700")
+![Book of Durrow, c. 650 and 700](/media/romero.jpg "Book of Durrow, c. 650 and 700")
 
 Archbishop Oscar Romero of El Salvador, murdered by a government assassin while celebrating Mass in San Salvador in 1980, had three years earlier been returned, back to his true self.  It had been a bruising path back, full of ambivalence and missteps trying to walk a fine line between a rapacious government and the needs of the country's marginalized poor.  The atmosphere in El Salvador then, as it is still today, was tense with violence, with rampant corruption, overlaid with 300 years of oppression by an oligarchy known as *"las familias quatorce,"* the fourteen families.  In the midst of this, Romero tried to appease the military and government while still claiming to be the shepherd of the Salvadoran Church.   No one can serve two masters, Romero had to choose which path to follow.
 
