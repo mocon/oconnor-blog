@@ -16,7 +16,6 @@ description: Author Robin DiAngelo in her best selling book, White Fragility,
 category: Reconciliation
 tags:
   - Spirituality
-  - ""
 ---
 Author Robin DiAngelo in her best selling book, White Fragility, describes white people’s complicity in the societal structures of racism as an inescapable consequence of our being silent.  This silence provides us the cover to deny we have any responsibility to make right an unjust system that in its undeniable effects favors ‘us’ and punishes ‘them.’  Ms. DiAngelo explains this denial does not necessarily make a person ‘bad,’ that that is actually irrelevant, but, that denial sanctions those racist structures.  To deny this reality is to sustain it, and that is not what we want to do.  
 
