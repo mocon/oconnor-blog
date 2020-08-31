@@ -9,4 +9,4 @@ My posts are about desire, the movements of our hearts that define what matters 
 
 The theologian Paul Tillich described grace as the moment when despair and estrangement are met by something 'greater,' whose message is 'You are accepted, accepted by that which is greater than you, and the name of which you do not know.'
 
-Living in this acceptance relinquishes fear and opens our eyes to the wonder each one of us truly is. To allow ourselves the freedom in no longer questioning our truest self with 'all that is.'
+Living in this acceptance relinquishes fear and opens our eyes to the wonder each one of us truly is. We live in the freedom of no longer questioning our truest self but exuberantly sharing this priceless gift with others.
