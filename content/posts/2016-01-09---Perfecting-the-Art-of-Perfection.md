@@ -6,18 +6,18 @@ socialImage: /media/image-2.jpg
 title: Returned And Restored
 date: 2020-07-08T23:52:10.303Z
 description: >
-  To be ‘returned to ourself’ is simply to be brought back into the truth of who
+  To be "returned to ourself" is simply to be brought back into the truth of who
   each of us is. All the philosophies, theologies, or ideologies, for all their
   value, cannot compare with the richness and life that already exists within
-  us. Notice the ‘returning’ is done to us, not by us.  This is important, for
-  it is through our relationship with others and with God that we are brought
-  back. Brought back, kind of to where we started, but to a self that emerges as
-  infinitely ‘more’ by way of the exchange with that ‘other.’     	
+  us. Notice the "returning" is done to us, not by us. This is important, for it
+  is through our relationship with others and with God that we are brought back.
+  Brought back, kind of to where we started, but to a self that emerges as
+  infinitely "more" by way of the exchange with that "other."     	
 category: Introduction
 tags:
   - Spirituality
 ---
-To be "returned to ourself" is simply to be brought back into the truth of who each of us is.  All the philosophies, theologies, and ideologies, for all their value, cannot compare with the richness and life that already exists within us. An item to note is the "returning" is done to us, not by us.  This is important, for it is through our relationship with others and with God that restores us to our truest self.  Brought back, kind of to where we started, but to a self that emerges as infinitely "more' by way of the exchange with that "other."
+To be "returned to ourself" is simply to be brought back into the truth of who each of us is.  All the philosophies, theologies, and ideologies, for all their value, cannot compare with the richness and life that already exists within us. An item to note is the "returning" is done to us, not by us.  This is important, for it is through our relationship with others and with God that restores us to our truest self.  Brought back, kind of to where we started, but to a self that emerges as infinitely "more" by way of the exchange with that "other."
 
 ![Book of Durrow, c. 650 and 700](/media/book-of-durrow.jpg "Book of Durrow, c. 650 and 700")
 
