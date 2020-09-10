@@ -41,6 +41,20 @@ Two remarkable people come to mind who embodied their version of semper fidelis.
 
 How fitting that Ms. Johnson’s medal would be labelled Freedom.  She lived and worked in fidelity to a gift revealing what resided in her heart, leading her to a life she could unequivocally say she loved.  That each of us would be so blessed. 	
 
-Paul Kitagaki Jr., a photojournalist with the Sacramento Bee, has created a photographic record of the people, including his parents and family, affected by Executive Order #9066, FDR’s decree in 1942 to round up and incarcerate US citizens of Japanese descent.  Kitagaki describes the 30 plus year project as, . . . a labor of love,  matching current photos of survivors with the historic photos of them taken in 1942.  The exhibition, entitled Gambatte! Legacy of an Enduring Spirit, has exposed the injustice of the forced internment and its enduring effect on the people’s lives.  And fortunately for us,  Mr. Kitagaki has revealed what matters to him –  the internees themselves, whose humanity forces us to lament the evil of their incarceration and at the same time be humbled by their courage and integrity. 	 These two, Katherine Johnson and Paul Kitagawi Jr., discovered a passion within themselves that could not but be brought forth.  The fidelity to their own ‘enduring spirit’ is their legacy.   Few of us received the wisdom of Polonius when we set out in life, but we are heartened when we live in fidelity to our ‘enduring spirit,’ truly knowing that what resides within us has been planted there to be shared.   
+Paul Kitagaki Jr., a photojournalist with the Sacramento Bee, has created a photographic record of the people, including his parents and family, affected by Executive Order #9066, FDR’s decree in 1942 to round up and incarcerate US citizens of Japanese descent.  Kitagaki describes the 30 plus year project as, . . . a labor of love,  matching current photos of survivors with the historic photos of them taken in 1942.  The exhibition, entitled Gambatte! Legacy of an Enduring Spirit, has exposed the injustice of the forced internment and its enduring effect on the people’s lives.  And fortunately for us,  Mr. Kitagaki has revealed what matters to him –  the internees themselves, whose humanity forces us to lament the evil of their incarceration and at the same time be humbled by their courage and integrity. 	 
+
+![](/media/pledge-of-allegience-one-nation-indivisible-san-francisco-pledge-of-allegiance-at-rafael-weill-elementary-school-a-few-weeks-prior-to-evacuation-dorothea-lange-collection-the-oakland-museum-of-california.-gift-of-paul-s.-taylor..jpg)
+
+
+
+(Above) *Pledge of Allegiance One Nation Indivisible, San Francisco* (Pledge of Allegiance at Rapael Weill Elementary School a few weeks prior to evacuation to internment camp.) Dorothea Lange Collection, the Oakland Museum of California. Gift of Paul S. Taylor
+
+
+
+
+
+
+
+These two, Katherine Johnson and Paul Kitagawi Jr., discovered a passion within themselves that could not but be brought forth.  The fidelity to their own ‘enduring spirit’ is their legacy.   Few of us received the wisdom of Polonius when we set out in life, but we are heartened when we live in fidelity to our ‘enduring spirit,’ truly knowing that what resides within us has been planted there to be shared.   
 
 What is residing right now within you whose time has come to be brought into the light?  Do not delay, trust in what matters to you, our world could do with some heart at the moment.
