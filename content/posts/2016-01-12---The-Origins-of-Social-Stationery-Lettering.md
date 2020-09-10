@@ -1,6 +1,6 @@
 ---
 slug: living-confidently
-draft: true
+draft: false
 socialImage: /media/image-3.jpg
 template: post
 title: Living Confidently
