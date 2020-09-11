@@ -1,8 +1,8 @@
 ---
-slug: pay-attention
-draft: true
-socialImage: /media/image-0.jpg
 template: post
+slug: pay-attention
+draft: false
+socialImage: /media/image-0.jpg
 title: Pay Attention
 date: 2020-08-31T01:10:34.403Z
 description: Remember when a teacher, or maybe a coach yelled at you, pay
