@@ -2,7 +2,7 @@
 template: post
 title: Having a Laugh with God
 slug: having-a-laugh-with-god
-draft: true
+draft: false
 date: 2020-09-11T01:54:36.213Z
 description: >-
   Meister Eckhart, a fourteenth century Dominican friar, theologian and mystic,
