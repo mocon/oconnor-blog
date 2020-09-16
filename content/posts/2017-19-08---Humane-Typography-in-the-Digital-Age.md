@@ -1,6 +1,6 @@
 ---
 slug: checkmate
-draft: false
+draft: true
 socialImage: /media/42-line-bible.jpg
 template: post
 title: Checkmate
@@ -17,9 +17,7 @@ tags:
 ---
 *“Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin."*							                       
 
-\    Mother Teresa
-
-
+   Mother Teresa
 
 I was sitting on a beach a few years ago looking out on the ocean.  There was nothing especially notable about that particular day,  not one of those brilliantly clear perfect vistas, in fact it was a warm morning with the sun making the horizon hazy and indistinct.  There were a few birds flying past,  faint ocean noises off in the distance.  In short, there was nothing of any postcard significance, just a warm morning along the Pacific coast.  
 
@@ -31,24 +29,16 @@ Something in the very ordinariness of the moment caught me off guard, the unrema
 
 *Viktor E. Frankl*
 
-
-
-
-
 In a series of lectures given less than a year after his liberation from a Nazi labor camp,  Viktor Frankl, author of *Man’s Search for Meaning*,  describes the formidable task our humanity imposes on us: 	
 
 *“Thus, it is precisely the uniqueness of our existence in the world, the irretrievability of everything with which we fill it – or leave unfilled – that gives our existence significance.  But it is not only the uniqueness of an individual life as a whole that gives it importance, it is the uniqueness of every day, every hour, every moment that represents something that loads our existence with the weight of a terrible and yet so beautiful responsibility.  Any hour whose demands we do not fulfill, or fulfill halfheartedly, this hour is forfeited, forfeited ‘for all eternity.’”*
 
- *\    Yes to Life, In Spite of Everything*    Viktor E. Frankl
+  *  Yes to Life, In Spite of Everything*    Viktor E. Frankl
 
 If each moment of our lives is to be lived in its ‘irretrievableness,’ where are we to find the stamina to undertake such ‘a terrible and yet so beautiful responsibility’?  The answer lies buried in the poem, *Tripping Over Joy*,  written in the Fourteenth Century by the Persian poet Hafiz:
 
-
-
 *“What is the difference between your experience of existence and that of a saint? The saint knows that the spiritual path is a sublime chess game with God and that the Beloved has just made such a Fantastic Move that the saint is now continually tripping over Joy and bursting out in Laughter and saying, “I Surrender!” Whereas, my dear, I am afraid you still think you have a thousand serious moves.”*
 
+I am guilty as charged, thinking there is always more time and more opportunities to make my next move in the game.  I, we, have been check-mated, by God no less.  We insist we want to keep playing, that we have more moves to trot out, but God says, “Relax, I won, I *got* you, set aside any thought of your next move and savor this moment while you still can.”   
 
-
-I am guilty as charged, thinking there is always more time and more opportunities to make my next move in the game.  I, we, have been check-mated, by God no less.  We insist we want to keep playing, that we have more moves to trot out, but God says, “Relax, I won, I *got* you, set aside all your ideas of a next move and savor this moment while you still can.”   
-
-It is truly daunting to see each moment of our life as a beautiful opportunity making its call on us to respond.  But to engage with life this way elevates and makes sacred even the most ordinary of encounters.  The present is fleeting,  but holds always the possible, which is all we can ask for.  Viktor Frankl urges us to grasp the demand each moment makes on us, but reassures us our humanity and the very meaningfulness of our life is defined by how we choose to respond.
+It is truly daunting to see each moment of our life as Frankl would have it –– a beautiful opportunity to respond.  But to engage with life this way elevates and makes sacred even the most ordinary of encounters.  The present is fleeting,  but holds always the possible, which is all we can ask for.  Viktor Frankl urges us to grasp the demand each moment makes on us, but reassures us our humanity and the very meaningfulness of our life is defined by how we choose to respond.
