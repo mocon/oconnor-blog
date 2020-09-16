@@ -1,6 +1,6 @@
 ---
 slug: checkmate
-draft: true
+draft: false
 socialImage: /media/42-line-bible.jpg
 template: post
 title: Checkmate
