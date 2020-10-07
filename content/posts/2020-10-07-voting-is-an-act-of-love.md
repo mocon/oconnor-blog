@@ -22,6 +22,8 @@ These days you and I have to tolerate the babel we are bombarded with, outrageou
 
 ![](/media/dis-gustave-dore.png)
 
+Illustration by [](https://en.wikipedia.org/wiki/Gustave_Dor%C3%A9 "Gustave Doré")Gustave Doré
+
 And just in case this character *Dis* might seem unfamiliar or archaic, he is wandering freely among us these days –– *dis*respect, *dis*own, *dis*dain, *dis*miss, *dis*ease and *dis*trust to name a few we are relentlessly subjected to. As *The Inferno* paints it so chillingly, all this *‘dis’* leads to an isolation that destroys individuals, and brings about an unraveling our nation seems incapable of restraining. 
 
 This environment we are mired in at the moment is defined by *dis,* damaging to our soul, shattering to our country and its institutions, and must be met with the one response no one has yet seemed to have tried –– love.
