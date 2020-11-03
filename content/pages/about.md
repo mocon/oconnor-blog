@@ -3,7 +3,7 @@ template: page
 title: About me
 socialImage: /media/image-2.jpg
 slug: about
-draft: true
+draft: false
 ---
 My posts are about desire, the movements of our hearts that define what matters to us, those inspirations, gifts and joys, uniquely ours that we alone have been graced with to share with our world. To be 'Returned To Ourself' is a homecoming of sorts, when having come face to face with the wonder and depth of who we are, we can live more fully in awe of the world in all its 'wonder and depth.'
 
