@@ -2,7 +2,7 @@
 template: post
 title: The Lover and Their Beloved
 slug: the -lover-and-their-beloved
-draft: true
+draft: false
 date: 2020-11-07T21:47:03.031Z
 description: A post on St. Ignatius Loyola might seem to make the above title
   incongruous, but a love story is at the heart of the man. Ignatius, a Basque
