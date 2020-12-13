@@ -2,7 +2,7 @@
 template: post
 title: '"We All Live In The Same House"'
 slug: we-all-live-in-the-same-house
-draft: false
+draft: true
 date: 2020-12-11T21:12:28.533Z
 description: >-
   *“We are all people,” Lewis said. “We are one family; we all live in the same
@@ -39,7 +39,7 @@ Mr. Newsome said a prayer to himself on his way up the steps to the stage, heari
 
 The pact you and I are considering signing our names to is not a promise to vote for some party, it is not a commitment to change the way we see things, it is much simpler. But just because it is simple, does not mean it is easy. We have to get off our ass and do something. 
 
-Our agreement with each other is ultimately about *location*. The what will work itself out, it is the *where* that we have to clear up. The where is wherever you are, because where you are is where I want to be. Where I need to be. Not to convince you, not to help you, not to change you, but to listen to you. Because what you carry within you holds the key to ending my contemptibleness.  Each of us has a reason for how we see the world, has a history that inevitably contains wounds, has a past with a story. And when I hear your story, and you hear mine, we can no longer carry on despising each other. This is the precise location where contempt ends, because to know someone and be moved by their life story makes hating them impossible. The story of a human life, every human life, when we contemplate the successes and failures, the traumas and joys, elicits awe at the sheer resilience of that person. And it is a short trip from holding one in awe to cherishing them for their humanity and courage, and it is no distance at all from cherishing to loving.
+Our agreement with each other is ultimately about *location*. The what will work itself out, it is the *where* that we have to clear up. The where is wherever you are, because where you are is where I want to be. Where I need to be. Not to convince you, not to help you, not to change you, but to listen to you. Because what you carry within you holds the key to ending my contemptibleness.  Each of us has a reason for how we see the world, has a history that inevitably contains wounds, has a past with a story. And when I hear your story, and you hear mine, we can no longer carry on despising each other, not because we have decided to agree, but because we have come to *respect* each other. This is the precise location where contempt ends, because to know someone and be moved by their life story makes hating them impossible. The story of a human life, every human life, when we contemplate the successes and failures, the traumas and joys, elicits awe at the astonishing resilience of that person. And it is a short trip from holding one in awe to cherishing them for their integrity and courage, and it is no distance at all from cherishing to loving.
 
 ![](/media/bonhoeffer.png)
 
