@@ -2,7 +2,7 @@
 template: post
 title: '"We All Live In The Same House"'
 slug: we-all-live-in-the-same-house
-draft: true
+draft: false
 date: 2020-12-11T21:12:28.533Z
 description: >-
   *“We are all people,” Lewis said. “We are one family; we all live in the same
