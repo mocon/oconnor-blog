@@ -31,7 +31,7 @@ Exiled in our respective bunkers, we must accept the truth that self-imposed iso
 
 Know this is not an ethical or moral dilemma, it is a proposal to confront the concrete reality of separation in our lives that loathing and fear have caused. Being fearful demands reacting ––  I am afraid, I am under threat, *what must I do right now*? Depending on how existential that threat is perceived to be, my response can become primal –– fight a pitched battle or run for my life. But the truth is different, because you and I have more in common than what fear would have us believe. 
 
-![](/media/untitled.png)
+![](/media/blm-rally.png)
 
 Arthur C. Brooks, in *Love Your Enemies,* writes of an encounter in 2017 on the National Mall in Washington D.C., where a pro-Trump rally and a contingent of Black Lives Matter activists met. Predictably, shouting, chanting, and rage-fueled encounters began, with some yelling “USA! USA! You don’t like it, get out!” And “Ignore them! They don’t exist!” But just when another Charlottesville loomed, the rally organizer, Tommy Hodges, from up on stage, invited Hawk Newsome of BLM to join him up there, giving him two minutes to somehow make his case.  Both men had come to the event ready to stand their ground, ready to out shout and out-rage the other. But at least for that day, something different happened.
 
