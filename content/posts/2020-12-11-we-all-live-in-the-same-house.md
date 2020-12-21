@@ -17,7 +17,7 @@ tags:
 ---
 ![](/media/john-lewis.jpg)
 
-*“We are all people,” Lewis said. “We are one family; we all live in the same house…it is better to love than to hate; it is better to be loved than divided.”*
+*“We are all people,”* Lewis said. *“We are one family; we all live in the same house…it is better to love than to hate; it is better to be loved than divided.”*
 
 Representative John Lewis 2016
 
