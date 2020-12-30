@@ -7,10 +7,10 @@ describe('Author', () => {
   const props = {
     author: {
       name: 'test',
-      photo: '/photo.jpg',
-      bio: 'test'
+      photo: '/matt-oconnor.jpg',
+      bio: 'test',
     },
-    isIndex: false
+    isIndex: false,
   };
 
   it('renders correctly', () => {
