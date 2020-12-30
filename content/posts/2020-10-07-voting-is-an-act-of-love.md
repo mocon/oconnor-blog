@@ -2,7 +2,7 @@
 template: post
 title: Voting Is An Act Of Love
 slug: voting-is-an-act-of-love
-draft: false
+draft: true
 date: 2020-10-07T19:44:15.200Z
 description: Loving and voting rarely make it into the same sentence, especially
   now when what I love would most likely apply only to loving to see the other
