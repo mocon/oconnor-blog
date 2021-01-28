@@ -54,19 +54,17 @@ Now this isn’t an indictment of knowledge but an assertion that something more
 
 > photo courtesy Joe McNallyblog
 
-
-
-
-
 Thomas Merton, Trappist monk, writer, and poet, describes what’s required of us to meet the demands this sense of immediacy makes on us:
 
+![](/media/thomas-merton.png)
+
+
+
+
+
+
+
 > *“You do not need to know precisely what is happening, or exactly where it is all going. What you need is to recognize the possibilities and challenges offered by the present moment, and to embrace them with courage, faith and hope.”* 
-
-
-
-
-
-
 
 Willingly setting aside the things we know for the *‘possibilities and challenges offered by the present moment’* appears to put us at a disadvantage. After all, we know an awful lot, and use our knowledge for good things, working, planning, and arriving at deep insights being just a few. But these are about us, and as noble a thing as each of us is, life is bigger and has much more in store for us –– if we’re open to it.  This, I believe, is why Merton felt we needed courage, faith and hope when sending ourselves out on such a limb. Without our hard won knowledge, the record of our accomplishments and the accumulated wisdom of our years, absent all that, what have we to fall back on to when the ‘possibilities and challenges’ present themselves.            
 
@@ -74,8 +72,8 @@ The short answer is not much, and that’s just how life would have us engage wi
 
 In such a moment, the revelation itself becomes teacher, and I student, or to put it another way, the present moment is the subject in this exchange and I become its object. In the ordinariness of our lives this is what holy looks like. The moment could be an experience, say of some natural wonder that bowls me over by its beauty and power.  The moment could be an individual, someone whose presence and singular story inspires me to cherish the mystery and wonder held there. In each case, having been met by something previously unknown, I’m made different, humbled by the abundance of the world, and moved to compassion by the privilege of the encounter.     
 
-As life so often does, the present moment requires us to make a decision. Can we risk setting aside what we know and instead place our trust in who we are, coming to see it’s in this willingness to engage with life undefended that transforms *not knowing* into *intimacy.* Intimacy happens in the exchange between parties of what’s innermost within them, it’s the basis for our most loving and connected relationships. Think of the moment you first experienced love, first felt ocean waves wash over you, or were met by something so wonder-filled you were left speechless.  
+As life so often does, the present moment requires us to make a decision. Can we risk setting aside what we know and instead place our trust in who we are, coming to see it’s in this willingness to engage with life undefended that transforms *not knowing* into *intimacy.* Being intimate is the exchange between parties of what’s innermost within them, it’s the basis for our most loving and connected relationships. Think of the moment you first experienced love, first felt ocean waves wash over you, or were met by something so wonder-ful and overwhelming you were left speechless.  
 
-This is what happens when we choose to meet life without knowing, the present moment takes over, establishing relationship with us as we are. Both parties are made different in the event, that one moment will be marked forever because we remember how we felt and became by way of what it revealed –– about us both. Remember though, it starts with us showing up, not 'knowing' but trusting, trusting that we're not just ready but worthy of whatever is coming our way. 
+This is what happens when we choose to meet life without knowing, the present moment takes over, establishing intimacy with us, as we are. Both parties are made different in the event, that particular moment will be marked forever in our memory by how we felt and by what we became because of what it revealed. Remember though, it starts with us showing up, not 'knowing' but trusting, trusting that we're not just ready but worthy of whatever life has in store for us. 
 
-Intimacy with and acceptance of ourselves makes us courageous, able to meet the present not because anything’s been added, but because much has been shed. No longer in need of our armor, no longer needing to rely on anything more complicated than what already resides in our hearts, we’re free to be surprised by the present moment and her gifts.
+All this is possible because intimacy with and acceptance of ourselves makes us courageous, able to meet the present moment. Not because anything’s been added, but because much has been shed. No longer in need of our armor, no longer needing to rely on anything more complicated than what already resides in our hearts, we’re free to be surprised by the present moment and ready to accept her gifts.
