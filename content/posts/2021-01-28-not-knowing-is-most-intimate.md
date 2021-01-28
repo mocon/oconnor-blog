@@ -2,7 +2,7 @@
 template: post
 title: '"Not Knowing Is Most Intimate"'
 slug: not-knowing-is-most-intimate
-draft: true
+draft: false
 date: 2021-01-28T00:06:03.295Z
 description: >-
   Practitioners of Zen Buddhism wrestle with a teaching story of a master
