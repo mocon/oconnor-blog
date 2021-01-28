@@ -25,7 +25,9 @@ Each of us has to reckon with the evil that infects our country.  Racist structu
 
 Ibram X. Kendi distills this down to its essence, writing in *How To Be An Antiracist,* ". *. . the basic struggle we’re all in, the struggle to be fully human and to see that others are fully human.* " To see that others are fully human acknowledges all we share in that humanity;  we all love, we all stagger through loss and celebrate in joy, we all are bound by our fears, our aspirations, our mortality, *together.*  We are bound to each other. 
 
-> *"I believe that the key to creating society that is nourishing, empowering and healing for everyone lies in how we relate to one another." -*Martin Buber
+> *"I believe that the key to creating society that is nourishing, empowering and healing for everyone lies in how we relate to one another."*
+>
+> *\-*Martin Buber
 
 So, just how are we to relate to one another?  Father Gregory Boyle, S.J.,  a priest in Los Angeles who with community members founded Homeboy Industries in 1988, has created a vision of relating that is actually possible.  Homeboy Industries has grown to become the largest gang-intervention program in the world, providing job training, counseling, tattoo removal, employment opportunities, and most importantly, a portal to a community where a 'them' does not exist, only 'us.'  
 
@@ -37,6 +39,6 @@ Describing kinship in his 2017 book, *Barking To The Choir:  The Power of Radica
 
  '. . .that we belong to each other.'  In light of the wounds racism has left on the body of our nation, is a sense of our belonging to each other even possible?  Do we have it in us to admit that we have deluded ourselves by refusing to see, by choosing to 'sit this one out' when members of our human family are suffering?  To seek forgiveness and to allow a change of heart?  It is a lie that buys in to the notion that we are separate little universes, safely isolated in our bitter little orbits.  Separating ourselves from each other is an act against what it is to be human.  Martin Luther King wrote, 
 
-*"'I' cannot reach fulfillment without 'thou.' The self cannot be self without other selves. Self-concern without other-concern is like a tributary that has no outward flow to the ocean."*
+> *"'I' cannot reach fulfillment without 'thou.' The self cannot be self without other selves. Self-concern without other-concern is like a tributary that has no outward flow to the ocean."*
 
 I will never be my 'fully human' self until the blossoming of your 'fully human' self.  Our healing and thriving as a nation, as communities, and as individuals will only begin the moment each of us recognizes that it is only in 'your' flourishing that 'my' fulfillment will be possible.
