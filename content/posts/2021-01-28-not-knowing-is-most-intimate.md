@@ -42,7 +42,7 @@ Dizang responds, "Not knowing is most intimate.”
 
 ![photo courtesy of Stingy Traveler](/media/wandering-courtesy-of-stingy-traveler.png)
 
-> photo courtesy Stingy Traveler
+*photo courtesy Stingy Traveler*
 
 In this short exchange, a practice in Zen called a *koan*, the teaching is designed not to help the student somehow figure out the correct answer, but to guide the student to allow the question to somehow figure out the student. Providing a way to approach this koan, writer / poet / Zen priest Norman Fischer writes that, as best as we can manage,  all experience should be met with *‘empty hands,’* so that *‘every moment of encounter’* holds the possibility of our being reached. Fischer warns of the risk ‘knowing’ entails,   *“ . . . without not knowing, the world would never be.”*
 
@@ -52,7 +52,7 @@ Now this isn’t an indictment of knowledge but an assertion that something more
 
 ![](/media/starting-blocks-courtesy-joe-mcnally.png)
 
-> photo courtesy Joe McNallyblog
+*photo courtesy Joe McNallyblog*
 
 Thomas Merton, Trappist monk, writer, and poet, describes what’s required of us to meet the demands this sense of immediacy makes on us:
 
@@ -72,12 +72,8 @@ Trusting, believing in your inherent worthiness opens your eyes to see how indis
 
 ![](/media/children-courtesy-.png)
 
-
-
-photo courtesy 
+> *photo courtesy Harsha Vardhan*
 
 That's right, that's you who is fearfully and wonderfully made. Breathe those words, let that sink in, because intimacy with this truth about yourself provides all you need for intimate relationship with every moment of your life.  
 
-
-
-All this is possible because intimacy with and acceptance of ourselves makes us courageous, ready to meet the present moment. Not because anything’s been added, but because much has been shed. No longer in need of our armor, no longer needing to rely on anything more complicated than what already resides in our hearts, we’re free to be surprised by the present moment and ready to accept her gifts.
+All this is possible through intimacy with and acceptance of ourselves, making us courageous, and thankfully, freer. We meet life in equanimity and with great humor, for no matter what she has in store for us our truth is all we need. Nothing added, but much shed. No longer in need of our armor, no longer needing to rely on anything more complicated than what already resides in our hearts, we’re free to be surprised by the present moment and ready to accept her gifts.
