@@ -40,6 +40,8 @@ Fayan replies, "I don't know."
 
 Dizang responds, "Not knowing is most intimate.”
 
+![photo courtesy of Stingy Traveler](/media/wandering-courtesy-of-stingy-traveler.png)
+
 In this short exchange, a practice in Zen called a koan, the teaching is designed not to help the student somehow figure out the correct answer, but to guide the student to allow the question to figure out the student. To understand a way to approach this koan, writer / poet / Zen priest Norman Fischer writes that, as best as we can manage,  all experience should be met with ‘empty hands,’ so that ‘every moment of encounter’ holds the possibility of our being reached. Fischer warns of the risk ‘knowing’ entails,   “ . . . without not knowing, the world would never be.”
 
 “The world would never be’ sounds dire, maybe a little melodramatic, but consider how limited your experience of the world would be if it was made up solely of what you already knew. There’d be no room for surprise, wonder and mystery would be missed, leaving an aridity too awful to contemplate. Leo Tolstoy, in War and Peace, writes that the highest degree of human wisdom occurs when we accept that “We can know only that we know nothing”  
