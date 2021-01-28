@@ -24,7 +24,7 @@ description: >-
   Dizang responds, "Not knowing is most intimate.”
 category: Courage
 tags:
-  - temp posting
+  - Intimacy
 ---
 Not Knowing Is Most Intimate
 
@@ -74,6 +74,6 @@ Trusting, believing in your inherent worthiness opens your eyes to see how indis
 
 > *photo courtesy Harsha Vardhan*
 
-That's right, that's you who is fearfully and wonderfully made. Breathe those words, let that sink in, because intimacy with this truth about yourself provides all you need for intimate relationship with every moment of your life.  
+That's right, that's you who is fearfully and wonderfully made. Breathe that, let it sink in, because intimacy with the truth of yourself provides all you need for intimate relationship with every moment of your life.  
 
-All this is possible through intimacy with and acceptance of ourselves, making us courageous, and thankfully, freer. We meet life with equanimity and a healthy dose of humor, for no matter what she has in store for us our 'truth has set us free.' Nothing added, but much shed. No longer in need of our armor, no longer needing to rely on anything more complicated than what already resides in our hearts, we’re free to be surprised by the present moment and ready to engage with her and her gifts.
+All this is possible through intimacy with and acceptance of ourselves, making us courageous, and thankfully, freer. We meet life with equanimity and a healthy dose of humor, for no matter what she has in store for us our 'truth has set us free.' Free to love, to listen, to see, touch, laugh and share all of us with all of life.  No longer in need of our armor, no longer needing to rely on anything more complicated than what already resides in our hearts, we’re free to be surprised by the present moment and ready to engage with her and her gifts.
