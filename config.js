@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://returnedtoourself.com',
   pathPrefix: '/',
   title: 'Returned to Ourself',
   subtitle: "A blog by Matt O'Connor",
-  copyright: "© Matt O'Connor 2020",
+  copyright: "© Matt O'Connor 2020-2021",
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
