@@ -5,9 +5,8 @@ slug: we-all-live-in-the-same-house
 draft: false
 date: 2020-12-11T21:12:28.533Z
 description: >-
-  “We are all people,” Lewis said. “We are one family; we all live in the same
-  house…it is better to love than to hate; it is better to be loved than
-  divided.”
+  “We are all people...We are one family; we all live in the same house…it is
+  better to love than to hate; it is better to be loved than divided.”
 
 
   - Representative John Lewis, 2016
@@ -17,9 +16,9 @@ tags:
 ---
 ![Representative John Lewis](/media/john-lewis.jpg "Representative John Lewis")
 
-*“We are all people,”* Lewis said. *“We are one family; we all live in the same house…it is better to love than to hate; it is better to be loved than divided.”*
-
-Representative John Lewis 2016
+> *“We are all people...We are one family; we all live in the same house…it is better to love than to hate; it is better to be loved than divided.”*
+>
+> *\-*Representative John Lewis, 2016
 
 I need you. You who sees things differently than I do, you who tends to disagree with my take on things, you who feels strongly that my way is the wrong way. I need you, who may view me as foolish in the best of times, and more likely as a barely sentient being the rest of the time. I recognize you may find me contemptible. I need you though, because I have an idea I hope you will consider –– I propose you and I make a pact, not one that promises we will agree with each other, but a pact that says we will never again hold the other in contempt. A pact where we pledge to respect one another's right to their beliefs, regardless of how opposed they may be from our own, solely because we choose to uphold the dignity of our mutual humanity. 
 
