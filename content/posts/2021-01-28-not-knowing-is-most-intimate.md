@@ -48,9 +48,7 @@ Now this isn’t an indictment of knowledge but an assertion that something more
 
 Thomas Merton, Trappist monk, writer, and poet, describes what’s required of us to meet the demands this sense of immediacy makes on us:
 
-```
-
-```
+“You do not need to know precisely what is happening, or exactly where it is all going. What you need is to recognize the possibilities and challenges offered by the present moment, and to embrace them with courage, faith and hope.” 
 
 Willingly setting aside the things we know for the ‘possibilities and challenges offered by the present moment’ appears to put us at a disadvantage. After all, we know an awful lot, and use our knowledge for good things, working, planning, and arriving at deep insights being just a few. But these are about us, and as noble a thing as each of us is, life is bigger and has much more in store for us –– if we’re open to it.  This, I believe, is why Merton felt we needed courage, faith and hope to put ourselves in such a precarious position. Without our hard won knowledge, the record of our accomplishments and the accumulated wisdom of our years, absent all that, what have we to fall back on to when the ‘possibilities and challenges’ present themselves.            
 
