@@ -31,7 +31,7 @@ Exiled in our respective bunkers, we must come to the truth that self-imposed is
 
 Know this is not an ethical or moral dilemma, it is a proposal to confront the concrete reality of separation in our lives that loathing and fear have caused. Being fearful demands reacting ––  I am afraid, I feel threatened, *what must I do right now*? Depending on how existential that threat is perceived to be, my response can become primal –– fight a pitched battle or run for my life. But the truth is different, because you and I have more in common than what fear would have us believe. 
 
-<figure style="width: 240px">
+<figure class="float-left" style=>
   <img src="/media/blm-rally.png" alt="Early Printing Press">
   <figcaption>This is actually possible</figcaption>
 </figure>
