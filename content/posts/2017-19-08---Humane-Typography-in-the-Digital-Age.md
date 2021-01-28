@@ -25,9 +25,10 @@ Normally I would be lost in some random speculations, or thinking if only it was
 
 Something in the very ordinariness of the moment caught me off guard, the unremarkable nature of all I was noticing struck me in an entirely different way.  I realized that these simple everyday sights and sounds and smells were unique to the moment and precious, and that they will be what I will miss desperately when I am no longer alive to take them in.  For at least a few minutes that morning,  the inimitable present moment overwhelmed me with the significance of its very ordinariness.  How precious every living second is, and how easily do I miss them.  How have I allowed so many of them to slip through my grasp?
 
-![Viktor E. Frankl](/media/victor-frankl.png "Viktor E. Frankl")
-
-*Viktor E. Frankl*
+<figure style="width: 240px">
+  <img src="/media/victor-frankl.png" alt="Gutenberg">
+  <figcaption>Viktor E. Frankl</figcaption>
+</figure>
 
 In a series of lectures given less than a year after his liberation from a Nazi labor camp,  Viktor Frankl, author of *Man’s Search for Meaning*,  describes the formidable task our humanity imposes on us: 	
 
