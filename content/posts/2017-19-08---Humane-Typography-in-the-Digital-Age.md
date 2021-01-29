@@ -7,13 +7,13 @@ title: Checkmate
 date: 2020-09-16T17:16:29.111Z
 description: >-
   “Yesterday is gone. Tomorrow has not yet come. We have only today. Let us
-  begin.” 									― Mother Teresa
+  begin.” 								
 
 
   I was sitting on a beach a few years ago looking out on the ocean.  There was nothing especially notable about that particular day,  not one of those brilliantly clear vistas, in fact it was a warm morning with the sun making the horizon hazy and indistinct.  There were a few birds flying past, a faint call off from the distance.  In short, there was nothing of any postcard significance, just a warm morning along the Pacific coast.  
 category: Courage
 tags:
-  - Template
+  - Irretrievableness
 ---
 *“Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin."*
 
