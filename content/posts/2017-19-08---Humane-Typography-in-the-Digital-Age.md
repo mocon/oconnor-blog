@@ -1,9 +1,9 @@
 ---
-template: post
-title: Checkmate
 slug: checkmate
 draft: false
 socialImage: /media/42-line-bible.jpg
+template: post
+title: Checkmate
 date: 2020-09-16T17:16:29.111Z
 description: >-
   “Yesterday is gone. Tomorrow has not yet come. We have only today. Let us
@@ -15,9 +15,9 @@ category: Courage
 tags:
   - Template
 ---
-> *“Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin."*
->
-> ― Mother Teresa
+*“Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin."*
+
+― Mother Teresa
 
 I was sitting on a beach a few years ago looking out on the ocean.  There was nothing especially notable about that particular day,  not one of those brilliantly clear perfect vistas, in fact it was a warm morning with the sun making the horizon hazy and indistinct.  There were a few birds flying past,  faint ocean noises off in the distance.  In short, there was nothing of any postcard significance, just a warm morning along the Pacific coast.  
 
