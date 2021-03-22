@@ -22,25 +22,17 @@ tags:
 ---
 Sooner or later we come into contact with ‘forces greater than ourselves,’ which if we’re not ready for them can sweep us up before we know what’s happened. The created world holds a litany of awesome forces –– oceans, deserts, mountains; behemoths, leviathans; the cosmos; all majestically dwarf us. Consider love, the love of an other, or for that matter truly loving anything, is a willing entrance into uncharted territory defined as much by what we don’t know and our deep vulnerability as anything else. Then there’s God, unknowable yet present in every moment of our lives, how are we to step up in encounters with her? Daunting to be sure, but this is the situation we find ourselves in. So is there a stance we can adopt that might keep us from being overwhelmed and at the same time set us up to be receptive to what these great forces might have for us? 
 
-I suggest humility is the answer. Humility puts us in the best position to engage with life as it finds us, causing us to develop an inner strength that grows out of what already exists within us. Self confidence is most directly originates from humility. The word itself comes from ‘humus,’ the soil, that lowly easily taken for granted substance we call dirt. It’s a wonderful irony that humility is perceived in such lowliness when in fact it serves as a condition which brings about strength and courage. 
+I suggest humility is the answer. Humility puts us in the best position to engage with life as it finds us, causing us to develop an inner strength that grows out of what already exists within us. The word itself comes from ‘humus,’ the soil, that lowly easily taken for granted substance we call dirt. It’s a wonderful irony that humility is perceived in such lowliness when in fact it serves as a condition which brings about strength and courage. 
 
 As humans, though, we need first to make a shift in our tendency towards a certain arrogance. In his 2005 commencement address at Kenyon College, the late author and professor David Foster Wallace describes the peculiarly human inclination to presume we are the center, the focus and the meaning of life on Earth. Wallace said:
 
-
-
 ![](/media/df-wallace.png)
-
-
-
-
 
 > *"Here is just one example of the total wrongness of something I tend to be automatically sure of: everything in my own immediate experience supports my deep belief that I am the absolute center of the universe; the realest, most vivid and important person in existence. We rarely think about this sort of natural, basic self-centeredness because it's so socially repulsive. But it's pretty much the same for all of us. It is our default setting, hard-wired into our boards at birth. Think about it: there is no experience you have had that you are not the absolute centre of. The world as you experience it is there in front of YOU or behind YOU, to the left or right of YOU, on YOUR TV or YOUR monitor."*
 
 Not you, not me, not a single one of us are the center of the universe. Thank God, because we’d make a hash of it anyway. Setting aside such a ludicrous assumption doesn’t make us less, though, but opens up the possibility that more of us can become available.  Absent this preposterous misconception, we immediately become more real, and in the bargain gain lots of company. Accepting our rightful place out of the center but on the periphery aligns us with each other, disclosing our dependence on and connection with one another. You are essential to the plan of the universe, just not its center.
 
 ![](/media/augustine-2.png)
-
-
 
 > St.Augustine (354-430 CE)
 
@@ -54,8 +46,6 @@ Several centuries earlier Confucius, in much the same light wrote that humility 
 
 What humility is not is weakness. The Scottish philosopher David Hume lumped humility in with several other characteristics he ridiculed as “monkish virtues.” Humility is not submissiveness, it's not self-abnegation, but it is a fearless acceptance of our place in creation. We aren’t its center, and neither are we an afterthought in the order of things. Our place in creation is to engage in it to the fullest, ours and hers.
 
-
-
 ![](/media/aquinas-1.png)
 
 > Thomas Aquinas (1225-1274 CE)
@@ -63,8 +53,6 @@ What humility is not is weakness. The Scottish philosopher David Hume lumped hum
 Aquinas, in his Summa Theologiae, writes that humility is essential because it makes one open to God’s grace.  Put another way, humility is essential because it puts us in right relationship to reality. It is only by way of grace we enjoy our gifts of life and talent. So if humility further opens us to receive more of these, I say do what it takes to make this more likely.  Bono, in U2’s *Mysterious Ways* suggests one approach to go about this –– he tells ‘Johnny,’ and the rest of us, how to engage with the wonders of life,
 
 ![](/media/bono-1.png)
-
-
 
 > *“If you want to kiss the sky, better learn how to kneel, on your knees boy!”* 
 
