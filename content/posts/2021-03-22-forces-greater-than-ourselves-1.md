@@ -50,7 +50,7 @@ What humility is not is weakness. The Scottish philosopher David Hume lumped hum
 
 > Thomas Aquinas (1225-1274 CE)
 
-Aquinas, in his Summa Theologiae, writes that humility is essential because it makes one open to God’s grace.  Put another way, humility is essential because it puts us in right relationship to reality. It is only by way of grace we enjoy our gifts of life and talent. So if humility further opens us to receive more of these, I say do what it takes to make this more likely.  Bono, in U2’s *Mysterious Ways* suggests one approach to go about this –– he tells ‘Johnny,’ and the rest of us, how to engage with the wonders of life,
+Aquinas, in his *Summa Theologiae*, writes that humility is essential because it makes one open to God’s grace.  Put another way, humility is essential because it puts us in right relationship to reality. It is only by way of grace we enjoy our gifts of life and talent. So if humility further opens us to receive more of these, I say do what it takes to make this more likely.  Bono, in U2’s *Mysterious Ways* suggests one approach to go about this –– he tells ‘Johnny,’ and the rest of us, how to engage with the wonders of life,
 
 ![](/media/bono-1.png)
 
@@ -64,7 +64,7 @@ In her article for the *Heythrop Journal*, *How Opposites (Should) Attract:  Hum
 
 > Zhu Xi (1130-1200 CE)
 
-Describing Zhu Xi’s view of a person on the path towards “sagehood,”, Klancer writes the movement towards humility is away from thinking themself “the center or the apex of the universe, but rather *to bring themselves into alignment with forces far greater than they* *are.”* Choosing to kneel in the face of such forces does not diminish one's self but empowers. Much like Job, It is an act that says, *‘we are not equals, but I am equal to the encounter.'* Acting in alignment such as this, Biblical scholar Walter Brueggemann, says “. . .  is a demanding way to live that thrives on candor and requires immense courage.”
+Describing Zhu Xi’s view of a person on the path towards “sagehood,”, Klancer writes the movement towards humility is away from thinking themself “the center or the apex of the universe, but rather *to bring themselves into alignment with forces far greater than they* *are.”* Choosing to kneel in the face of such forces does not diminish one's self but empowers. Much like Job, it is an act that says, *‘we are not equals, but I am equal to the encounter.'* Acting in alignment such as this, Biblical scholar Walter Brueggemann, says “. . .  is a demanding way to live that thrives on candor and requires immense courage.”
 
 Augustine reminds us that knowing oneself and humility are intimately connected, bringing about 'perfect wisdom.'  Wholeness becomes the operative word here, we live courageously in what's real, vulnerable but yet strengthened by the openness of our situation. *"Be not afraid"* is no empty boast at this point but the inner condition humility has brought about.
 
