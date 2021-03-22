@@ -3,7 +3,7 @@ template: post
 title: Forces Greater Than Ourselves
 slug: forces-greater-than-ourselves
 draft: false
-date: 2021-03-22T20:21:40.584Z
+date: 2021-03-22T22:21:10.884Z
 description: Sooner or later we come into contact with ‘forces greater than
   ourselves,’ which if we’re not ready for them can sweep us up before we know
   what’s happened. The created world holds a litany of awesome forces –– oceans,
