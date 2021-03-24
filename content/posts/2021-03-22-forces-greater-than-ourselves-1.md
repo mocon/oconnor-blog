@@ -56,7 +56,7 @@ Aquinas, in his *Summa Theologiae*, writes that humility is essential because it
 
 > *“If you want to kiss the sky, better learn how to kneel, on your knees boy!”* 
 
-Now if there is one posture not exactly predominant these days it would have to be ‘on our knees.’ But consider the immensity of our world, the mysteries of the universe, and if you really want to stretch yourself, consider God –– where and how is it we ought to stand in relation to these? Possibly we shouldn’t stand at all, but get on bended knees. 
+Now if there is one posture not exactly predominant these days it would have to be ‘on our knees.’ But consider the immensity of our world, the mysteries of the universe, and if you really want to stretch yourself, consider God –– where and how is it we ought to stand in relation to these? Possibly we shouldn’t be standing at all, but kneeling in prayer. 
 
 In her article for the *Heythrop Journal*, *How Opposites (Should) Attract:  Humility As A Virtue For The Strong*, Catherine Hudek Klancer of Boston University compares the ethics of humility of near contemporaries Aquinas and Confucian master Zhu Xi.
 
