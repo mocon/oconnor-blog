@@ -11,7 +11,7 @@ description: Sooner or later we come into contact with ‘forces greater than
   majestically dwarf us. Then consider love, loving an other who can be both
   enigma and our beloved, or for that matter truly giving ourselves in love to
   anything, is a willing entrance into uncharted territory defined as much by
-  what we don’t know and our deep vulnerability as anything else. Then there’s
+  what we don’t know and by our vulnerability as anything else. Then there’s
   God, unknowable yet present in every moment of our lives, how are we to step
   up in encounters with her? Daunting to be sure, but this is the situation we
   find ourselves in. So is there a stance we can adopt that might keep us from
