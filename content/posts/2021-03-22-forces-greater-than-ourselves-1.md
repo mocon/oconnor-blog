@@ -23,9 +23,9 @@ tags:
 ---
 Sooner or later we come into contact with ‘forces greater than ourselves,’ which if we’re not prepared for them can sweep us up before we know what’s happened to us. The created world holds a litany of awesome forces –– oceans, deserts, mountains; behemoths, leviathans; the cosmos; all majestically dwarfing us and our concerns. Then consider love, loving an other who can be both enigma and our beloved, or for that matter truly loving anything, is a willing entrance into uncharted territory defined as much by what we don’t know and by our vulnerability as anything else. Then there’s God, unknowable yet present in every moment of our lives, how are we to step up in encounters with her? Daunting to be sure, but this is the situation we find ourselves in. So is there a stance we can adopt that might keep us from being overwhelmed and at the same time set us up to be receptive to what these great forces might have for us? 
 
-I suggest humility is the answer. Humility puts us in the best position to engage with life as it finds us, causing us to develop a self-confidence that grows from what we already have within us. The word itself comes from ‘humus,’ the soil, that lowly easily taken for granted stuff we call dirt. It’s a wonderful irony that humility is perceived in such lowliness when in fact it serves as a condition rooted in strength and courage. 
+I suggest humility is the answer. Humility puts us in the best position to engage with life as it finds us, causing us to develop a self-confidence that grows from what we already have within us. The word itself comes from ‘humus,’ soil, that lowly easily taken for granted stuff we call dirt. It’s a wonderful irony that humility is perceived in such lowliness when in fact it serves as a condition rooted in strength and courage. 
 
-As humans, though, we first need to make a shift in our tendency towards a certain arrogance. In his 2005 commencement address at Kenyon College, the late author and professor David Foster Wallace describes the peculiarly human inclination to presume the universe  orbits around our own skull. Wallace said:
+As humans, though, humility requires us to make a shift in our tendency towards a certain arrogance. In his 2005 commencement address at Kenyon College, the late author and professor David Foster Wallace describes the peculiarly human inclination to presume the universe  orbits around our own skull. Wallace said:
 
 ![](/media/df-wallace.png)
 
@@ -45,7 +45,7 @@ The theologian and philosopher Augustine, Bishop of Hippo, whose writings have i
 
 Several centuries earlier Confucius, in much the same light wrote that humility is about learning and facing one’s limitations. Both suggest if we bravely face the truth of ourselves, including the sobering reality of our place within creation, humility becomes an inner condition in our nature.  
 
-What humility is not is weakness. The Scottish philosopher David Hume lumped humility in with several other characteristics he ridiculed as “monkish virtues.” Humility is not submissiveness, it's not self-abnegation, but it is a fearless acceptance of our place in creation. We aren’t its center, and neither are we an afterthought in the order of things. Our place in creation is to engage with it to the fullest, hers and ours.
+What humility is not is weakness. The Scottish philosopher David Hume lumped humility in with several other characteristics he ridiculed as “monkish virtues.” Humility is not submissiveness, it's not self-abnegation, but is a fearless acceptance of our place in creation. We aren’t its center, and neither are we an afterthought in the order of things. Our place in creation is to engage with it to the fullest, hers and ours.
 
 ![](/media/aquinas-1.png)
 
