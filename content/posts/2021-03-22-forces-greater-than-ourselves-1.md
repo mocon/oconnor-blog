@@ -5,8 +5,8 @@ slug: forces-greater-than-ourselves
 draft: false
 date: 2021-03-22T22:21:10.884Z
 description: Sooner or later we come into contact with ‘forces greater than
-  ourselves,’ which if we’re not prepared for them can sweep us up before we
-  know what’s happened to us. The created world holds a litany of awesome forces
+  ourselves,’ which if we’re not prepared for them can sweep us aside before we
+  know what’s even happened. The created world holds a litany of awesome forces
   –– oceans, deserts, mountains; behemoths, leviathans; the cosmos; all
   majestically dwarfing us and our concerns. Then consider love, loving an other
   who can be both enigma and our beloved, or for that matter truly giving
@@ -21,7 +21,7 @@ category: Humility
 tags:
   - Humility
 ---
-Sooner or later we come into contact with ‘forces greater than ourselves,’ which if we’re not prepared for them can sweep us up before we know what’s happened to us. The created world holds a litany of awesome forces –– oceans, deserts, mountains; behemoths, leviathans; the cosmos; all majestically dwarfing us and our concerns. Then consider love, loving an other who can be both enigma and our beloved, or for that matter truly loving anything, is a willing entrance into uncharted territory defined as much by what we don’t know and by our vulnerability as anything else. Then there’s God, unknowable yet present in every moment of our lives, how are we to step up in encounters with her? Daunting to be sure, but this is the situation we find ourselves in. So is there a stance we can adopt that might keep us from being overwhelmed and at the same time set us up to be receptive to what these great forces might have for us? 
+Sooner or later we come into contact with ‘forces greater than ourselves,’ which if we’re not prepared for them can sweep us aside before we know what’s even happened. The created world holds a litany of awesome forces –– oceans, deserts, mountains; behemoths, leviathans; the cosmos; all majestically dwarfing us and our concerns. Then consider love, loving an other who can be both enigma and our beloved, or for that matter truly loving anything, is a willing entrance into uncharted territory defined as much by what we don’t know and by our vulnerability as anything else. Then there’s God, unknowable yet present in every moment of our lives, how are we to step up in encounters with her? Daunting to be sure, but this is the situation we find ourselves in. So is there a stance we can adopt that might keep us from being overwhelmed and at the same time set us up to be receptive to what these great forces might have for us? 
 
 I suggest humility is the answer. Humility puts us in the best position to engage with life as it finds us, causing us to develop a self-confidence that grows from what we already have within us. The word itself comes from ‘humus,’ soil, that lowly easily taken for granted stuff we call dirt. It’s a wonderful irony that humility is perceived in such lowliness when in fact it serves as a condition rooted in strength and courage. 
 
