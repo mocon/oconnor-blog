@@ -8,7 +8,7 @@ module.exports = {
   copyright: "© Matt O'Connor 2020-2021",
   disqusShortname: '',
   postsPerPage: 6,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'G-RJDMJRWB16',
   useKatex: false,
   menu: [
     {
