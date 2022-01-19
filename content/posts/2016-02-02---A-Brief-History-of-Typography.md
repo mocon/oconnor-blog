@@ -1,6 +1,6 @@
 ---
 slug: pay-attention
-draft: false
+draft: true
 socialImage: /media/image-0.jpg
 template: post
 title: Pay Attention
@@ -23,6 +23,6 @@ In giving our attention, we receive in return the richness of that other we have
 
 When I pay attention to you, whether you are speaking, or doing, or just there with me, I might simply be biding my time waiting for my next chance to talk some more.   But if I am willing to be open to you,  to listen to your words, to be moved by your emotion,  I am aligning myself with you.  In this moment you are all there is.  So I **Pay Attention!**   I am not doing any healing, I am certainly not fixing,  all I am doing is holding open the door of my heart.  The question then turns on, can I be touched?, can I be moved?   Moved by who and what you are, by the wonder and awe of you and your story, by the totality of you.  And when this happens, you and I occupy the space contained in that moment that causes a shift in us both.  In me, because I have been met by the miracle of the wonder and mystery that is you.  I am left with an indelible imprint of you and your story, leaving me a changed person.   And for you, having allowed this meeting to occur, you have initiated a true human exchange, one of intimacy, vulnerability, and mutuality.  
 
-The poet J.D. McClatchy wrote, *"Love is the quality of attention we pay to things."* You know what he is talking about.  Remember that moment when a child had so much they wanted to share with you they were jumping our of their skin to tell you all about it, wanting nothing more than to fill you up with their exuberance.  Remember a moment a friend filled you to overflowing with love and appreciation simply because they were who they were.  And think of a time when you felt seen, when another human being allowed you in to their heart, savoring you in all your ‘mystery, depth, and greatness.'
+The poet J.D. McClatchy wrote, *"Love is the quality of attention we pay to things."* You know what he is talking about.  Remember that moment when a child had so much they wanted to share with you they were jumping out of their skin to tell you all about it, wanting nothing more than to fill you up with their exuberance.  Remember a moment a friend filled you to overflowing with love and appreciation simply because they were who they were.  And think of a time when you felt seen, when another human being allowed you in to their heart, savoring you in all your ‘mystery, depth, and greatness.'
 
 We need look no further, nor try to add anything to these moments, to recognize this is what God looks like and what our human thriving is made of.
