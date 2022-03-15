@@ -2,7 +2,7 @@
 template: post
 title: Be The Antidote
 slug: be-the-antidote
-draft: false
+draft: true
 date: 2022-03-15T18:17:03.946Z
 description: There is a poison flowing through our lives at the moment, it is
   showing up in our families, across our society, and literally threatening the
@@ -22,7 +22,7 @@ tags:
 ---
 There is a poison flowing through our lives at the moment, it is showing up in our families, across our society, and literally threatening the entire planet. We can all point to the symptoms, they are legion and are leading us closer and closer to a precipice none of us ought to be anywhere near. A common feature of the toxin is its ability to cause its victims to isolate behind the high walls of their tribe, to turn their back on their neighbors, to shun members of their own family, and in the end, to give up hope.  All of us are guilty of this to one degree or another, the rationales and the details are interchangeable, which makes those pesky facts and realities beside the point. In every case though, the poison is the same, we seem to have chosen to respond to the existential upheaval in our lives by giving up.
 
-![](/media/untitled-2.png)
+![](/media/get-out-3.png)
 
 > *photo courtesy of spudboy.itch.io*
 
