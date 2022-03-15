@@ -2,7 +2,7 @@
 template: post
 title: Be The Antidote
 slug: be-the-antidote
-draft: false
+draft: true
 date: 2022-03-15T18:17:03.946Z
 description: There is a poison flowing through our lives at the moment, it is
   showing up in our families, across our society, and literally threatening the
@@ -26,29 +26,23 @@ There is a poison flowing through our lives at the moment, it is showing up in o
 
 > *photo courtesy of spudboy.itch.io*
 
-Judith Thurman, in a piece in the New Yorker a few months ago wrote, “ . . . in an era of cataclysmic strife, weather, and unreason, hope is as precious as it is scarce.” To even speak of hope these days seems almost quaint, a remnant from a time before polarization came to be, inexplicably, sensible. But when was the last time you heard someone say they felt ‘hopeful?’
+Judith Thurman, in a piece in the *New Yorker* a few months ago wrote, *“ . . . in an era of cataclysmic strife, weather, and unreason, hope is as precious as it is scarce.*” To even speak of hope these days seems almost quaint, a remnant from a time before polarization came to be, inexplicably, sensible. But when was the last time you heard someone say they felt ‘hopeful?’
 
 It need not be this way. Socially, politically, religiously, ethically, morally, by any measure, we are burning through what little remaining equity of decency we might still lay claim to. 
 
 ![](/media/mob-2.png)
 
-
-
 > *photo courtesy of endtimes.news*
-
-
 
 But the moment is actually offering an opportunity to see ourselves in a different light –– so that instead of trashing each other, we might try listening to one another; so that instead of tearing down norms just to teach somebody a lesson, we might collaborate on solutions; and instead of breaking everything (as cute as that phrase might once have been), can we imagine an entirely new approach where possibility supersedes what seems inevitable?
 
-Listening, collaborating, entertaining fresh possibilities, these all speak of an approach that allows for the unexpected, in fact it looks forward to being surprised by what may yet be. This could describe a person as being hopeful, but it holds none of the sense of hope for a predetermined result. In fact it is just the opposite.  What it does define is a person who embodies what hope points to, living not in hope *for* anything, but living in relationship with reality’s promise, found precisely in its uncertainties.      
+Listening, collaborating, entertaining fresh possibilities, these all speak of an approach that allows for the unexpected, in fact it looks forward to being surprised by what may yet be. This might describe a person as being hopeful, but it holds none of the sense of hope for a designated outcome. In fact it is just the opposite.  What it does define is a person who embodies what hope points to, living not *in* hope *for* anything, but living in relationship with reality’s promise, found precisely in its uncertainties.      
 
 And despite what you have read, hope is not dead. 
 
->
->
 > **“Hope deferred makes the heart sick.”** 						Proverbs13:12
 
-Am I, are you, ready to be hope? That quaint notion that a single voice has something valuable to offer? Hoping for something is not about ‘my’ cause, but about ‘our’ cause, ‘our’ shared thriving. Hope is not a thing to find and latch on to, it is not even a proper noun, nor is it a naive optimism banking on an idealized future when everything is going to turn out just like I planned.  
+Am I, are you, ready to be hope? That quaint notion that a single voice has something valuable to offer? Hoping for something is not about ‘my’ cause, but about ‘our’ cause, ‘our’ shared thriving. Hope is not a thing to find and latch on to, it is not even a proper noun, nor is it a naive optimism banking on some idealized future when everything is going to turn out just like I planned.  
 
 Rather, to live with hope, to be hopeful, reveals a belief about yourself that is best described as a position taken with respect to reality. It is your personal answer to forces, which at the moment are arrayed against your human thriving. Some forces in fact endangering your survival.  In such a context, being hopeful, *being hope*, shifts your default setting towards a generosity of spirit. This ‘stance’ is a response to reality you and I individually choose to adopt –– it accepts, it adapts and then responds. Coming from a sense of inner resourcefulness, accepting that our uniqueness and individuality can only be meaningful when the focus is taken off ourselves and put on others, we respond to the reality of the moment by caring for all we encounter.
 
